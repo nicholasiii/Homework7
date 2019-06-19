@@ -1,4 +1,4 @@
-City,Country,Lat,Lng,Date,Cloudlieness,Humidity,Max Temp,Wind Speed
+City,Country,Lat,Lng,Date,Cloudiness,Humidity,Max Temp,Wind Speed
 port alfred,ZA,-33.59,26.89,1560981161,100,37,20.56,3.58
 hilo,US,19.71,-155.08,1560981162,75,51,29.0,5.1
 bredasdorp,ZA,-34.53,20.04,1560981163,100,62,11.0,0.5
